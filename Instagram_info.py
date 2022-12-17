@@ -1,5 +1,5 @@
 try:
-	import requests ,re
+	import requests ,re,os
 except:
 	import os
 	os.system('pip install requests')
