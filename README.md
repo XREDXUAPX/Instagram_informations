@@ -1,12 +1,12 @@
 <html>
-# Instagram_informations
+<h1> Instagram_informations</h1>
 • get instagram informations From User<br>  
 • No Login<br>  
 • No problem<br>  
 • No stop<br> 
 • No ban<br> 
 • for free<br> 
-• How to use :<br> 
+<h1> How to use :<br> </h1>
 - pkg install git<br> 
 - pkg install python3<br> 
 - pip install requests<br> 
